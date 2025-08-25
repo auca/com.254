@@ -18,7 +18,3 @@ Refer to the device documentation on which drivers to install.
 #### iOS Development
 
 * [Xcode](https://developer.apple.com/xcode/resources/)
-
-#### Flutter Cross-platform Development
-
-* [Flutter](https://flutter.dev)
