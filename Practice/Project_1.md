@@ -1,5 +1,5 @@
-Practice #1 (Kaboom!)
-=====================
+Project #1 (Kaboom!)
+====================
 
 <img src="https://raw.githubusercontent.com/rachmiroff/images/refs/heads/main/auca/com-254/fall-2025/kaboom/android.png" width="300">
 
@@ -49,12 +49,12 @@ Do not submit code unless requested. You will defend your project during midterm
 
 ## Grading
 
-You can earn up to 35 points. This practice covers the first two labs in the Syllabus and the Midterm Exam.
+You can earn up to 40 points. This practice covers the first two labs in the Syllabus and the Midterm Exam.
 
-* The program functions correctly: 10 points
-* The code is of acceptable quality and uses many modern programming language features: 9 points
-* The program works on different phone screens and in both portrait and landscape modes: 8 points
-* The defense is delivered successfully, and all questions are answered: 8 points
+* The program functions correctly: 15 points
+* The code is of acceptable quality and uses many modern programming language features: 10 points
+* The program works on different phone screens and in both portrait and landscape modes: 10 points
+* The defense is delivered successfully, and all questions are answered: 5 points
 
 ---
 
